@@ -1,0 +1,402 @@
+Original Sentence 1,Original Sentence 2,Preprocessed Sentence 1,Preprocessed Sentence 2,True Similarity Score,Predicted Similarity Score
+gerak yang dianggap tidak mempunyai arti tertentu karena lebih mengutamakan aspek keindahan atau artistik.,gerakan,gerak  dianggap  mempunyai arti tertentu  lebih mengutamakan aspek keindahan  artistik,gerakan,0.0,1.1500000000000004
+"Merumuskan masalah
+Mengumpulkan informasi atau kajian pustaka
+Menyusun hipotesis
+Merancang dan melakukan eksperimen
+Menganalisis data
+Membuat simpulan
+Menulis laporan ilmiah","Merumuskan masalah
+Menggali informasi
+Menyusun hipotesis
+Melakukan eksperimen
+Menganalisis data
+Membuat kesimpulan
+Menulis laporan ilmiah",merumuskan masalah mengumpulkan informasi  kajian pustaka menyusun hipotesis merancang  melakukan eksperimen menganalisis data membuat simpulan menulis laporan ilmiah,merumuskan masalah menggali informasi menyusun hipotesis melakukan eksperimen menganalisis data membuat kesimpulan menulis laporan ilmiah,4.5,4.074999999999999
+Kumpulan prinsip spesifik yang kebenarannya telah diuji berulang kali dan diterima secara meluas.,peraturan dari suatu penelitian,kumpulan prinsip spesifik  kebenarannya  diuji berulang kali  diterima  meluas,peraturan  suatu penelitian,0.0,0.0
+"Orientasi: Pengenalan tokoh-tokoh dalam cerita.
+Pemunculan Konflik: Awal kemunculan konflik dalam suatu cerita.
+Komplikasi: Peningkatan konflik yang membuat konflik mulai memuncak.
+Klimaks: Puncak konflik atau masalah paling intens.
+Resolusi: Penyelesaian masalah","Alur Maju: Alur cerita yang mencakup awal hingga akhir tanpa flashback.
+Alur Mundur: Alur cerita yang dimulai dari akhir sampai ke awal cerita.
+Alur Campuran: Campuran alur maju dan alur mundur, cerita diawali dari awal dan dapat terjadi flashback di tengah cerita.",orientasi pengenalan  cerita pemunculan konflik awal kemunculan konflik  suatu cerita komplikasi peningkatan konflik  membuat konflik mulai memuncak klimaks puncak konflik  masalah paling intens resolusi penyelesaian masalah,alur maju alur cerita  mencakup awal hingga akhir  flashback alur mundur alur cerita  dimulai  akhir   awal cerita alur campuran campuran alur maju  alur mundur cerita diawali  awal   terjadi flashback  tengah cerita,0.5,0.692499999999999
+"tulang atau rangka berfungsi sebagai penopang dan pembentuk tubuh, tempat menempelnya otot dan saraf, serta menjadi pelindung organ-organ vital di dalam tubuh.",Fungsi tulang dan rangka adalah untuk melindungi organ dalam manusia.,tulang  rangka berfungsi  penopang  pembentuk tubuh tempat menempelnya otot  saraf  menjadi pelindung vital   tubuh,fungsi tulang  rangka   melindungi organ  manusia,1.5,4.339999999999997
+Secara langsung yaitu penggambaran tokoh berdasarkan watak yang dimiliki. Secara tidak langsung yaitu sesuai dengan cara tokoh berdialog dalam cerita,"secara analitik, yaitu penggambaran tokoh dengan cara tersurat atau secara langsung dengan cara melalui pengarang itu sendiri, secara tidak langsung, yaitu melalui percakapan antar tokoh, tindakan serta pendapat tokoh", langsung  penggambaran tokoh berdasarkan watak  dimiliki   langsung  sesuai  cara tokoh berdialog  cerita, analitik  penggambaran tokoh  cara tersurat   langsung  cara melalui pengarang  sendiri   langsung  melalui percakapan antar tokoh tindakan  pendapat tokoh,5.0,2.2150000000000007
+"Unsur-unsur yang memungkinkan gerak tari menjadi lebih bermakna dan lebih menarik, serta sesuai dengan isi tarian yang dikehendaki penata tari.",Unsur pendukung tari adalah segala sesuatu yang digunakan untuk mendukung suatu tarian. Dengan tujuan memperindah tarian tersebut., memungkinkan gerak tari menjadi lebih bermakna  lebih menarik  sesuai  isi tarian  dikehendaki penata tari,unsur pendukung tari  segala   digunakan  mendukung suatu tarian  tujuan memperindah tarian tersebut,1.5,1.9549999999999976
+Teori disusun untuk menjelaskan sesautu yang tidak dapat diamati secara langsung dan masih bersifat sementara.,Untuk mengetahui nilai fungsi dari suatu barang,teori disusun  menjelaskan sesautu    diamati  langsung   bersifat , mengetahui nilai fungsi  suatu barang,0.0,0.3299999999999996
+gerak yang dilakukan sambil berpindah tempat,"Gerak yang Di lakukan dengan berpindah pindah posisi, dari posisi satu ke posisi yang lainnya.",gerak  dilakukan  berpindah tempat,gerak   lakukan  berpindah pindah posisi  posisi satu  posisi  lainnya,5.0,2.4749999999999983
+gerak yang dianggap tidak mempunyai arti tertentu karena lebih mengutamakan aspek keindahan atau artistik.,Gerak tari yang tidak memiliki arti/makna namun fokus pada keindahan,gerak  dianggap  mempunyai arti tertentu  lebih mengutamakan aspek keindahan  artistik,gerak tari   memiliki  fokus  keindahan,4.5,2.51
+"Orientasi: Pengenalan tokoh-tokoh dalam cerita.
+Pemunculan Konflik: Awal kemunculan konflik dalam suatu cerita.
+Komplikasi: Peningkatan konflik yang membuat konflik mulai memuncak.
+Klimaks: Puncak konflik atau masalah paling intens.
+Resolusi: Penyelesaian masalah","Pengenalan cerita
+Pemunculan konflik
+Komplikasi
+Klimaks
+Resolusi",orientasi pengenalan  cerita pemunculan konflik awal kemunculan konflik  suatu cerita komplikasi peningkatan konflik  membuat konflik mulai memuncak klimaks puncak konflik  masalah paling intens resolusi penyelesaian masalah,pengenalan cerita pemunculan konflik komplikasi klimaks resolusi,2.5,4.444999999999996
+"musik pengiring, tata busana, tata rias, properti tari","Tenaga, Ruang, Waktu",musik pengiring tata busana tata rias properti tari,tenaga ruang waktu,0.0,1.8950000000000018
+"musik pengiring, tata busana, tata rias, properti tari","Musik pengiring, tata busana, tata rias",musik pengiring tata busana tata rias properti tari,musik pengiring tata busana tata rias,4.0,4.995000000000001
+"Mengatur irama tari, membentuk suasana, mempertegas ungkapan gerak, menginspirasi gerak, mengingatkan gerak, mengidentifikasi tari","berfungsi sebagai pendamping dalam tarian yang d bawakan, dan untuk memberi masukan dan menambahkan khas tarian dari daerah tersebut",mengatur irama tari membentuk suasana mempertegas ungkapan gerak menginspirasi gerak mengingatkan gerak mengidentifikasi tari,berfungsi  pendamping  tarian  d bawakan   memberi masukan  menambahkan khas tarian  daerah tersebut,0.5,0.9549999999999985
+perubahan posisi atau sikap anggota badan pada saat menari dan merupakan unsur utama dari tari,perubahan posisi dan sikap penari dari satu tempat ke tempat lain/ 1 gerak ke gerakan lain,perubahan posisi  sikap anggota badan   menari  merupakan unsur utama  tari,perubahan posisi  sikap penari  satu tempat  tempat gerak  gerakan ,1.5,1.284999999999998
+"Mengatur irama tari, membentuk suasana, mempertegas ungkapan gerak, menginspirasi gerak, mengingatkan gerak, mengidentifikasi tari","Membentuk suasana, mengatur irama, menginspirasi gerak, mengingat gerak, mengidentifikasi gerak.",mengatur irama tari membentuk suasana mempertegas ungkapan gerak menginspirasi gerak mengingatkan gerak mengidentifikasi tari,membentuk suasana mengatur irama menginspirasi gerak mengingat gerak mengidentifikasi gerak,4.5,4.670000000000003
+"mengamati (observasi), mengklasifikasi, mengukur, mengajukan pertanyaan, merumuskan hipotesis, merencanakan penelitian, menafsirkan data, Mengkomunikasikan","mengamati, mengukur, mengklasifikasi, berkomunikasi",mengamati observasi mengklasifikasi mengukur mengajukan pertanyaan merumuskan hipotesis merencanakan penelitian menafsirkan data mengkomunikasikan,mengamati mengukur mengklasifikasi berkomunikasi,2.5,3.645000000000003
+Generalisasi dari hubungan antara fakta dengan konsep.,suatu generalisasi hubungan antara fakta dan konsep,generalisasi  hubungan  fakta  konsep,suatu generalisasi hubungan  fakta  konsep,5.0,5.0
+"Nilai moral, yaitu nilai yang berkaitan dengan baik buruknya tokoh.
+Nilai sosial, yaitu nilai yang berkaitan dengan sikap tokoh dalam hubungannya dengan tokoh lain
+Nilai religi, yaitu nilai yang berhubungan dengan hubungan manusia dengan Tuhan.
+Nilai budaya, yaitu nilai yang berkaitan dengan kebiasaan masyarakat saat itu.
+Nilai pendidikan, yaitu nilai yang berkaitan dengan upaya seseorang mencari ilmu pengetahuan.","Religi adalah nilai yang berisi tentang keagamaan yang ada dalam teks hikayat.
+nilai Moral adalah nilai pada teks hikayat yang mengandung nilai-nilai moral atau
+nilai Pendidikan adalah nilai pada teks hikayat yang mengandung unsur pendidikan serta nilai
+Sosial adalah nilai sosial yang mengandung interaksi antar tokoh dalam cerita, dan nilai",nilai moral  nilai  berkaitan  baik buruknya tokoh nilai sosial  nilai  berkaitan  sikap tokoh  hubungannya  tokoh  nilai religi  nilai  berhubungan  hubungan manusia  tuhan nilai budaya  nilai  berkaitan  kebiasaan masyarakat   nilai pendidikan  nilai  berkaitan  upaya seseorang mencari ilmu pengetahuan,religi  nilai  berisi  keagamaan    teks hikayat nilai moral  nilai  teks hikayat  mengandung moral  nilai pendidikan  nilai  teks hikayat  mengandung unsur pendidikan  nilai sosial  nilai sosial  mengandung interaksi antar tokoh  cerita  nilai,3.5,2.3699999999999983
+kegiatan melihat dan memperhatikan dengan teliti fenomena alam yang akan diamati,mengobservasi sebuah penelitian,kegiatan melihat  memperhatikan  teliti fenomena alam   diamati,mengobservasi sebuah penelitian,0.0,0.8899999999999985
+kegiatan membandingkan nilai besaran yang diukur dengan besaran lain yang sejenis yang telah ditetapkan sebagai satuan.,Cara mengetahui tentang pengukuran suatu hal dengan mengukur,kegiatan membandingkan nilai besaran  diukur  besaran   sejenis   ditetapkan  satuan,cara mengetahui  pengukuran suatu   mengukur,0.5,0.3949999999999995
+"musik pengiring, tata busana, tata rias, properti tari","Musik pengiring, tata busana,tata rias,properti tari",musik pengiring tata busana tata rias properti tari,musik pengiring tata busana tata rias properti tari,5.0,4.974451625382168
+Teori disusun untuk menjelaskan sesautu yang tidak dapat diamati secara langsung dan masih bersifat sementara.,"tujuannya adalah untuk menjelaskan sesuatu yang tidak dapat diamati, bersifat tentatif sampai terbukti tidak benar dan diperbaiki",teori disusun  menjelaskan sesautu    diamati  langsung   bersifat ,tujuannya   menjelaskan     diamati bersifat tentatif  terbukti  benar  diperbaiki,3.5,3.044999999999996
+Representasi dari suatu benda atau sistem yang dibuat sebagai gambaran untuk memudahkan pemahaman suatu benda atau fenomena alam.,untuk memahami suatu fenomena alam dan juga membantu untuk memahami teori,representasi  suatu benda  sistem  dibuat  gambaran  memudahkan pemahaman suatu benda  fenomena alam, memahami suatu fenomena alam   membantu  memahami teori,0.0,2.6700000000000017
+Teori disusun untuk menjelaskan sesautu yang tidak dapat diamati secara langsung dan masih bersifat sementara.,agar dapat membuat sebuah kejadian dapat diperkirakan atau teori rasa penasaran manusia dapat terlegalisir sedikit,teori disusun  menjelaskan sesautu    diamati  langsung   bersifat ,  membuat sebuah kejadian  diperkirakan  teori rasa penasaran manusia  terlegalisir sedikit,0.0,0.5000000000000002
+"tulang atau rangka berfungsi sebagai penopang dan pembentuk tubuh, tempat menempelnya otot dan saraf, serta menjadi pelindung organ-organ vital di dalam tubuh.",Sebagai penopang tubuh,tulang  rangka berfungsi  penopang  pembentuk tubuh tempat menempelnya otot  saraf  menjadi pelindung vital   tubuh, penopang tubuh,1.0,2.451666666666667
+"ilmu pengetahuan yang mempelajari gejala alam melalui pengamatan, eksperimen, dan analisis.","Ilmu yang mempelajari tentang alam dan mempelajari tentang zat zat kimia. Mempelajari juga tentang fisika, biologi, dan kimia.",ilmu pengetahuan  mempelajari gejala alam melalui pengamatan eksperimen  analisis,ilmu  mempelajari  alam  mempelajari  zat zat kimia mempelajari   fisika biologi  kimia,2.5,0.38499999999999945
+rasa ingin tahu objektif/jujur berpikir kritis berpikir terbuka sikap penemuan dan kreatif,Rasa ingin tahu yang besar - Bertanggung jawab - Pekerja keras - Jujur - kreatif,rasa  tahu berpikir kritis berpikir terbuka sikap penemuan  kreatif,rasa  tahu  besar bertanggung jawab pekerja keras jujur kreatif,3.0,3.8199999999999945
+"fakta, konsep, prinsip, hukum, rumus, teori, model","Fakta, prinsip, model, hukum, rumus, konsep, teori",fakta konsep prinsip hukum rumus teori model,fakta prinsip model hukum rumus konsep teori,5.0,4.974451625382168
+jaringan dalam tubuh manusia yang dapat menggerakkan bagian tertentu pada tubuh manusia.,Jaringan dalam tubuh Manusia yang mampu menggerakkan bagian bagian tertentu di tubuh manusia,jaringan  tubuh manusia   menggerakkan bagian tertentu  tubuh manusia,jaringan  tubuh manusia  mampu menggerakkan bagian bagian tertentu  tubuh manusia,5.0,4.119999999999996
+Generalisasi dari hubungan antara fakta dengan konsep.,Hubungan antara fakta dan konsep.,generalisasi  hubungan  fakta  konsep,hubungan  fakta  konsep,4.0,2.699999999999998
+rasa ingin tahu objektif/jujur berpikir kritis berpikir terbuka sikap penemuan dan kreatif,Rasa ingin tahu - Bertanggung jawab - Teliti - Kritis dan kreatif - Objektif dan jujur - Memiliki pikiran yang terbuka ,rasa  tahu berpikir kritis berpikir terbuka sikap penemuan  kreatif,rasa  tahu bertanggung jawab teliti kritis  kreatif objektif  jujur memiliki pikiran  terbuka,4.0,4.799999999999997
+berkaitan dengan cara berpikir seorang ilmuwan dalam melakukan proses sains.,Tindakan berpikir sebelum memulai rancangan awal pada ilmu fisika,berkaitan  cara berpikir seorang ilmuwan  melakukan proses sains,tindakan berpikir  memulai rancangan awal  ilmu fisika,1.0,2.8042222222222253
+Generalisasi dari hubungan antara fakta dengan konsep.,generalisasi hubungan antara fakta dan konsep.,generalisasi  hubungan  fakta  konsep,generalisasi hubungan  fakta  konsep,5.0,4.974451625382168
+Cepat lambatnya irama gerak serta hitungan gerak yang dalam hal ini berhubungan langsung dengan musik pengiring tari.,Cepat lambatnya irama gerak serta hitungan gerak yang dalam hal ini berhubungan langsung dengan musik pengiring tari.,cepat lambatnya irama gerak  hitungan gerak     berhubungan langsung  musik pengiring tari,cepat lambatnya irama gerak  hitungan gerak     berhubungan langsung  musik pengiring tari,5.0,4.974451625382168
+suatu sistem yang terdiri atas sejumlah tulang dan sendi yang membentuk tubuh manusia,bagian tubuh yang memberikan dukungan dan stabilitas tanpa terlibat langsung dalam gerakan,suatu sistem  terdiri atas sejumlah tulang  sendi  membentuk tubuh manusia,bagian tubuh  memberikan dukungan  stabilitas  terlibat langsung  gerakan,0.0,0.1525
+"Sendi mati yaitu sendi yang tidak mungkin bergerak.
+Sendi tulang rawan atau sendi kaku, yaitu sendi yang memungkinkan terjadinya sedikit gerak antartulang yang terhubung.
+Sendi gerak yaitu sendi yang bisa digerakkan dengan bebas.","- Sendi mati yaitu sendi yang tidak mungkin bergerak.
+- Sendi tulang rawan atau sendi kaku, yaitu sendi yang memungkinkan terjadinya sedikit gerak antartulang yang terhubung.
+- Sendi gerak yaitu sendi yang bisa digerakkan dengan bebas.",sendi mati  sendi   mungkin bergerak sendi tulang rawan  sendi kaku  sendi  memungkinkan terjadinya sedikit gerak antartulang  terhubung sendi gerak  sendi   digerakkan  bebas,sendi mati  sendi   mungkin bergerak sendi tulang rawan  sendi kaku  sendi  memungkinkan terjadinya sedikit gerak antartulang  terhubung sendi gerak  sendi   digerakkan  bebas,5.0,4.974451625382168
+jaringan dalam tubuh manusia yang dapat menggerakkan bagian tertentu pada tubuh manusia.,Jaringan dalam tubuh manusia yang dapat menggerakkan bagian tertentu pada tubuh,jaringan  tubuh manusia   menggerakkan bagian tertentu  tubuh manusia,jaringan  tubuh manusia   menggerakkan bagian tertentu  tubuh,5.0,4.715000000000004
+"Mengatur irama tari, membentuk suasana, mempertegas ungkapan gerak, menginspirasi gerak, mengingatkan gerak, mengidentifikasi tari","Fungsi Musik sebagai Pengiring Tari
+1.Memberikan Irama. Pada dasarnya tari terdiri dari gerak-gerak yang berirama
+2.mengatur dan menentukan irama sehingga sangat sulit menari jika tanpa musik.
+Memberikan Ilustrasi Tari
+3. Rangsangan bagi Penari",mengatur irama tari membentuk suasana mempertegas ungkapan gerak menginspirasi gerak mengingatkan gerak mengidentifikasi tari,fungsi musik  pengiring tari irama  dasarnya tari terdiri   berirama  menentukan irama  sangat sulit menari   musik memberikan ilustrasi tari rangsangan  penari,0.5,0.5699999999999992
+"mengamati (observasi), mengklasifikasi, mengukur, mengajukan pertanyaan, merumuskan hipotesis, merencanakan penelitian, menafsirkan data, Mengkomunikasikan","objektif, metodik, sistematik",mengamati observasi mengklasifikasi mengukur mengajukan pertanyaan merumuskan hipotesis merencanakan penelitian menafsirkan data mengkomunikasikan,objektif metodik sistematik,0.0,0.15000000000000008
+Teori disusun untuk menjelaskan sesautu yang tidak dapat diamati secara langsung dan masih bersifat sementara.,Untuk menjelaskan sesuatu yang tidak dapat diamati secara langsung dan bersifat sementara,teori disusun  menjelaskan sesautu    diamati  langsung   bersifat , menjelaskan     diamati  langsung  bersifat ,5.0,2.479999999999997
+"Salah saju jenis prosa lama yang menceritakan kehidupan raja, keluarga raja, atau bangsawan.", teks cerita yang berisi karya fiktif (karangan),salah saju jenis prosa lama  menceritakan kehidupan raja keluarga raja  bangsawan,teks cerita  berisi karya fiktif karangan,1.5,0.6049999999999991
+"Orientasi: Pengenalan tokoh-tokoh dalam cerita.
+Pemunculan Konflik: Awal kemunculan konflik dalam suatu cerita.
+Komplikasi: Peningkatan konflik yang membuat konflik mulai memuncak.
+Klimaks: Puncak konflik atau masalah paling intens.
+Resolusi: Penyelesaian masalah","Menelaah karakter
+Mengendalikan karakter mulai masalah
+Puncak masalah (klimaks)
+Penyelesaian masalah
+Kendi",orientasi pengenalan  cerita pemunculan konflik awal kemunculan konflik  suatu cerita komplikasi peningkatan konflik  membuat konflik mulai memuncak klimaks puncak konflik  masalah paling intens resolusi penyelesaian masalah,menelaah karakter mengendalikan karakter mulai masalah puncak masalah klimaks penyelesaian masalah kendi,1.5,2.9600000000000035
+Secara langsung yaitu penggambaran tokoh berdasarkan watak yang dimiliki. Secara tidak langsung yaitu sesuai dengan cara tokoh berdialog dalam cerita,dengan melihat dari sudut perkataan dan sikap dari tokoh itu sendiri, langsung  penggambaran tokoh berdasarkan watak  dimiliki   langsung  sesuai  cara tokoh berdialog  cerita, melihat  sudut perkataan  sikap  tokoh  sendiri,0.0,1.1749999999999996
+"Unsur-unsur yang memungkinkan gerak tari menjadi lebih bermakna dan lebih menarik, serta sesuai dengan isi tarian yang dikehendaki penata tari.","gerak, tata rias, properti,musik,alat musik,tempo", memungkinkan gerak tari menjadi lebih bermakna  lebih menarik  sesuai  isi tarian  dikehendaki penata tari,gerak tata rias properti musik alat musik tempo,0.0,1.6499999999999977
+jaringan dalam tubuh manusia yang dapat menggerakkan bagian tertentu pada tubuh manusia.,Jaringan dalam tubuh manusia yang dapat menggerakan bagian tertentu pada tubuh manusia.,jaringan  tubuh manusia   menggerakkan bagian tertentu  tubuh manusia,jaringan  tubuh manusia   menggerakan bagian tertentu  tubuh manusia,5.0,2.9300000000000015
+gerakan menoleh sambil menekukkan leher ke samping kiri atau kanan.,Gerakan menoleh sambil menekukkan leher ke samping kiri atau kanan.,gerakan menoleh  menekukkan leher  samping kiri  kanan,gerakan menoleh  menekukkan leher  samping kiri  kanan,5.0,4.974451625382168
+Secara langsung yaitu penggambaran tokoh berdasarkan watak yang dimiliki. Secara tidak langsung yaitu sesuai dengan cara tokoh berdialog dalam cerita,"secara langsung: yaitu dengan pengarang menuliskan atau menampilkan tulisan yang bertuliskan watak yang dimiliki tokoh, tidak langsung: yaitu cara berbicara atau berdialog si tokoh sepanjang cerita", langsung  penggambaran tokoh berdasarkan watak  dimiliki   langsung  sesuai  cara tokoh berdialog  cerita, langsung   pengarang menuliskan  menampilkan tulisan  bertuliskan watak  dimiliki tokoh  langsung  cara berbicara  berdialog si tokoh sepanjang cerita,5.0,1.219999999999998
+"ilmu pengetahuan yang mempelajari gejala alam melalui pengamatan, eksperimen, dan analisis.","ilmu pengetahuan yang mempelajari gejala alam melalui pengamatan, eksperimen, dan analisis",ilmu pengetahuan  mempelajari gejala alam melalui pengamatan eksperimen  analisis,ilmu pengetahuan  mempelajari gejala alam melalui pengamatan eksperimen  analisis,4.5,4.974451625382168
+"penanda waktu, kesempatan, durasi, tempo, dan timing.","-durasi
+-ritme
+-tempo
+-",penanda waktu kesempatan durasi tempo  timing,,2.0,0.0
+Periode waktu yang dibutuhkan dalam menampilkan tarian.,jumlah waktu tarian,periode waktu  dibutuhkan  menampilkan tarian,jumlah waktu tarian,2.5,1.6750000000000003
+"penanda waktu, kesempatan, durasi, tempo, dan timing.","Raga,irama,rasa,waktu,ruang",penanda waktu kesempatan durasi tempo  timing,raga irama rasa waktu ruang,0.5,3.7449999999999983
+"tungkai atas dan bawah, telapak kaki, jari-jari kaki.","- Kaki
+- Paha
+- Betis
+- Pergelangan kaki
+- Telapak kaki",tungkai atas  bawah telapak kaki kaki,kaki paha betis pergelangan kaki telapak kaki,1.5,2.514999999999997
+Riasan yang digunakan untuk mempertajam atau mempertegas garis wajah tanpa menghilangkan bentuk wajah asli penari.,Riasan yang digunakan untuk mempertajam atau mempertegas garis wajah tanpa menghilangkan bentuk wajah asli,riasan  digunakan  mempertajam  mempertegas garis wajah  menghilangkan bentuk wajah asli penari,riasan  digunakan  mempertajam  mempertegas garis wajah  menghilangkan bentuk wajah asli,4.5,5.0
+Periode waktu yang dibutuhkan dalam menampilkan tarian.,Lama waktu pertunjukan tari,periode waktu  dibutuhkan  menampilkan tarian,lama waktu pertunjukan tari,2.0,2.5141666666666667
+"Merumuskan masalah
+Mengumpulkan informasi atau kajian pustaka
+Menyusun hipotesis
+Merancang dan melakukan eksperimen
+Menganalisis data
+Membuat simpulan
+Menulis laporan ilmiah","Merumuskan masalah, mengumpulkan informasi, melakukan Hipotesis, membuat percobaan, membuat kesimpulan.",merumuskan masalah mengumpulkan informasi  kajian pustaka menyusun hipotesis merancang  melakukan eksperimen menganalisis data membuat simpulan menulis laporan ilmiah,merumuskan masalah mengumpulkan informasi melakukan hipotesis membuat percobaan membuat kesimpulan,3.5,2.424999999999997
+"ruang riil atau ruang nyata mencakup tempat-tempat nyata, sedangkan ruang imajiner adalah ruang yang terbentuk dari pose dan gerak penari serta perpindahan posisi.","-Ruang gerak: bentuk yang di hasilkan penari setelah melakukan gerakan
+
+-Ruang panggung: ruang sebagai tempat pentas seni tari",ruang riil  ruang nyata mencakup nyata  ruang imajiner  ruang  terbentuk  pose  gerak penari  perpindahan posisi,gerak bentuk   hasilkan penari  melakukan gerakan panggung ruang  tempat pentas seni tari,0.5,2.989999999999997
+Teori disusun untuk menjelaskan sesautu yang tidak dapat diamati secara langsung dan masih bersifat sementara.,Untuk menjelaskan suatu yang tidak dapat diamati,teori disusun  menjelaskan sesautu    diamati  langsung   bersifat , menjelaskan suatu    diamati,0.0,1.1400000000000001
+"Pengetahuan sesuai dengan objek yang diamati dan didukung oleh fakta empiris, tidak didasarkan atas orang lain.",tujuan atau target yang mau di tuju dengan serius,pengetahuan sesuai  objek  diamati  didukung  fakta empiris  didasarkan atas orang ,tujuan  target  mau  tuju  serius,0.0,0.6750000000000003
+jaringan dalam tubuh manusia yang dapat menggerakkan bagian tertentu pada tubuh manusia.,jaringan dalam tubuh manusia yang dapat menggerakkan bagian tertentu pada tubuh manusia.,jaringan  tubuh manusia   menggerakkan bagian tertentu  tubuh manusia,jaringan  tubuh manusia   menggerakkan bagian tertentu  tubuh manusia,5.0,4.974451625382168
+perubahan posisi atau sikap anggota badan pada saat menari dan merupakan unsur utama dari tari,perubahan sikap posisi anggota badan,perubahan posisi  sikap anggota badan   menari  merupakan unsur utama  tari,perubahan sikap posisi anggota badan,2.0,4.494999999999999
+Pakaian utama yang dikenakan oleh penari dan benar-benar tampak bagi penonton.,pakaian utama yang dikenakan oleh penari,pakaian utama  dikenakan  penari  tampak  penonton,pakaian utama  dikenakan  penari,2.5,3.7899999999999983
+jawaban sementara dari masalah yang diteliti sehingga kebenarannya harus diuji secara empiris.,jawaban sementara dari masalah yang sedang diteliti.,jawaban   masalah  diteliti  kebenarannya  diuji  empiris,jawaban   masalah  sedang diteliti,2.5,2.7200000000000006
+Kumpulan prinsip spesifik yang kebenarannya telah diuji berulang kali dan diterima secara meluas.,prinsip prinsip khusus atau spesifik yang diterima secara meluas setelah dilakukan pengujian berulang kali dan kebenarannya telah diakui dengan dukungan oleh bukti-bukti ilmiah.,kumpulan prinsip spesifik  kebenarannya  diuji berulang kali  diterima  meluas,prinsip prinsip khusus  spesifik  diterima  meluas  dilakukan pengujian berulang kali  kebenarannya  diakui  dukungan  ilmiah,5.0,4.279999999999998
+Secara langsung yaitu penggambaran tokoh berdasarkan watak yang dimiliki. Secara tidak langsung yaitu sesuai dengan cara tokoh berdialog dalam cerita,"Cara Langsung = Pengarang menggambarkan watak tokoh melalui nama, kepribadian, jalan pikiran, proses bahasa dan lingkungan
+Cara tidak Langsung = Pengarang menggambarkan watak tokoh melalui:
+Percakapan atau dialog
+Penggambaran/Sudut pandang dari tokoh lain
+Tindakan saat tokoh menghadapi masalah
+Reaksi tokoh lain", langsung  penggambaran tokoh berdasarkan watak  dimiliki   langsung  sesuai  cara tokoh berdialog  cerita,cara langsung pengarang menggambarkan watak tokoh melalui nama kepribadian jalan pikiran proses bahasa  lingkungan cara  langsung pengarang menggambarkan watak tokoh melalui percakapan  dialog pandang  tokoh  tindakan  tokoh menghadapi masalah reaksi tokoh ,5.0,1.930000000000001
+jawaban sementara dari masalah yang diteliti sehingga kebenarannya harus diuji secara empiris.,dugaan dugaan yang belum tentu benar,jawaban   masalah  diteliti  kebenarannya  diuji  empiris,dugaan dugaan    benar,2.0,0.5200000000000002
+"pakaian dasar, pakaian kaki, pakaian tubuh, pakaian kepala, aksesori pelengkap.","pakaian dasar,pakaian kaki,pakaian kepala,pakai tubuh,dan pakaian pelengkap.",pakaian dasar pakaian kaki pakaian tubuh pakaian kepala aksesori pelengkap,pakaian dasar pakaian kaki pakaian kepala pakai tubuh  pakaian pelengkap,4.5,4.850000000000001
+"ruang riil atau ruang nyata mencakup tempat-tempat nyata, sedangkan ruang imajiner adalah ruang yang terbentuk dari pose dan gerak penari serta perpindahan posisi.",pribadi dan umum,ruang riil  ruang nyata mencakup nyata  ruang imajiner  ruang  terbentuk  pose  gerak penari  perpindahan posisi,pribadi  umum,0.0,2.5141666666666667
+kegiatan membandingkan nilai besaran yang diukur dengan besaran lain yang sejenis yang telah ditetapkan sebagai satuan.,kegiatan untuk menentukan suatu ukuran suatu objek. ,kegiatan membandingkan nilai besaran  diukur  besaran   sejenis   ditetapkan  satuan,kegiatan  menentukan suatu ukuran suatu objek,0.5,1.9500000000000004
+"Orientasi: Pengenalan tokoh-tokoh dalam cerita.
+Pemunculan Konflik: Awal kemunculan konflik dalam suatu cerita.
+Komplikasi: Peningkatan konflik yang membuat konflik mulai memuncak.
+Klimaks: Puncak konflik atau masalah paling intens.
+Resolusi: Penyelesaian masalah","pengenalan atau orientasi, yaitu cerita awal atau pengenalan cerita, pemunculan konflik, munculnya konflik pada cerita, puncak konflik atau komunikasi, masalah menjadi besar atau menjadi panas, klimaks, masalah mulai menurun, resolusi, cara untuk menyelesaikan masalah",orientasi pengenalan  cerita pemunculan konflik awal kemunculan konflik  suatu cerita komplikasi peningkatan konflik  membuat konflik mulai memuncak klimaks puncak konflik  masalah paling intens resolusi penyelesaian masalah,pengenalan  orientasi  cerita awal  pengenalan cerita pemunculan konflik munculnya konflik  cerita puncak konflik  komunikasi masalah menjadi besar  menjadi panas klimaks masalah mulai menurun resolusi cara  menyelesaikan masalah,5.0,2.564999999999996
+"ruang riil atau ruang nyata mencakup tempat-tempat nyata, sedangkan ruang imajiner adalah ruang yang terbentuk dari pose dan gerak penari serta perpindahan posisi.",Ruang tari dibagi menjadi 2 yaitu ruang rill sebagai tempat pementasan/latihan dan ruang imajiner yaitu yang diciptakan oleh penari dari pose atau perpindahan gerak penari.,ruang riil  ruang nyata mencakup nyata  ruang imajiner  ruang  terbentuk  pose  gerak penari  perpindahan posisi,ruang tari dibagi menjadi  ruang rill  tempat  ruang imajiner   diciptakan  penari  pose  perpindahan gerak penari,2.5,2.8949999999999996
+"Mengatur irama tari, membentuk suasana, mempertegas ungkapan gerak, menginspirasi gerak, mengingatkan gerak, mengidentifikasi tari","Mengatur irama tari,membentuk suasana,mempertegas ungkapan gerak,mengidentifikasi tari",mengatur irama tari membentuk suasana mempertegas ungkapan gerak menginspirasi gerak mengingatkan gerak mengidentifikasi tari,mengatur irama tari membentuk suasana mempertegas ungkapan gerak mengidentifikasi tari,3.5,3.7450000000000006
+"objektif, metodik, sistematik, berlaku umum","kritis dan analisis, logis, objektif, empiris, konseptual",objektif metodik sistematik berlaku umum,kritis  analisis logis objektif empiris konseptual,5.0,0.7949999999999989
+"Orientasi: Pengenalan tokoh-tokoh dalam cerita.
+Pemunculan Konflik: Awal kemunculan konflik dalam suatu cerita.
+Komplikasi: Peningkatan konflik yang membuat konflik mulai memuncak.
+Klimaks: Puncak konflik atau masalah paling intens.
+Resolusi: Penyelesaian masalah","Orientasi: Pengenalan tokoh-tokoh dalam cerita.
+Pemunculan Konflik: Awal kemunculan konflik dalam suatu cerita.
+Komplikasi: Peningkatan konflik yang membuat konflik semakin intens.
+Klimaks: Puncak konflik atau masalah paling intens.
+Resolusi: Penyelesaian masalah atau ending senang, biasanya ada di akhir cerita.",orientasi pengenalan  cerita pemunculan konflik awal kemunculan konflik  suatu cerita komplikasi peningkatan konflik  membuat konflik mulai memuncak klimaks puncak konflik  masalah paling intens resolusi penyelesaian masalah,orientasi pengenalan  cerita pemunculan konflik awal kemunculan konflik  suatu cerita komplikasi peningkatan konflik  membuat konflik semakin intens klimaks puncak konflik  masalah paling intens resolusi penyelesaian masalah  ending senang biasanya   akhir cerita,5.0,3.1800000000000033
+"Berfungsi mengawali, mengendalikan, dan menghentikan gerak.","Untuk mengawali, menghentikan, dan mengendalikan gerak",berfungsi mengawali mengendalikan  menghentikan gerak, mengawali menghentikan  mengendalikan gerak,5.0,4.959999999999999
+"Abstraksi dari kejadian, fenomena, & fakta. Unsur konsep adalah nama, definisi, nilai dan contoh.",mencari bahan cerita atau kriteria untuk membuat sebuah cerita untuk dikerjakan,abstraksi  kejadian fenomena fakta unsur konsep  nama definisi nilai  contoh,mencari bahan cerita  kriteria  membuat sebuah cerita  dikerjakan,0.0,0.44499999999999923
+"Salah saju jenis prosa lama yang menceritakan kehidupan raja, keluarga raja, atau bangsawan."," salah satu krosa lama yang menceritakan kerajaan, raja-raja, dan bangsawan",salah saju jenis prosa lama  menceritakan kehidupan raja keluarga raja  bangsawan,salah satu krosa lama  menceritakan kerajaan  bangsawan,4.0,3.559999999999999
+gerak yang dianggap tidak mempunyai arti tertentu karena lebih mengutamakan aspek keindahan atau artistik.,Gerak murni suatu gerak yang tdk memiliki makna,gerak  dianggap  mempunyai arti tertentu  lebih mengutamakan aspek keindahan  artistik,gerak murni suatu gerak  tdk memiliki makna,2.5,1.270000000000002
+"Variabel bebas
+Variabel terkait
+Variabel terkontrol","Variabel bebas
+Variabel terkait
+Variabel kontrol",variabel bebas variabel terkait variabel terkontrol,variabel bebas variabel terkait variabel kontrol,5.0,2.75
+"ruang riil atau ruang nyata mencakup tempat-tempat nyata, sedangkan ruang imajiner adalah ruang yang terbentuk dari pose dan gerak penari serta perpindahan posisi.","Ruang pribadi adalah jika penari melakukan gerak tanpa berpindah tempat, atau jangkauan yang dapat dicapai bagian tubuh penari ketika bergerak. Sedangkan ruang umum adalah jika penari melakukan gerakan dengan berpindah tempat atau membentuk suatu pola yang biasa disebut pola lantai.",ruang riil  ruang nyata mencakup nyata  ruang imajiner  ruang  terbentuk  pose  gerak penari  perpindahan posisi,ruang pribadi   penari melakukan gerak  berpindah tempat  jangkauan   dicapai bagian tubuh penari  bergerak  ruang umum   penari melakukan gerakan  berpindah tempat  membentuk suatu pola  biasa disebut pola lantai,3.0,0.9099999999999998
+kegiatan membandingkan nilai besaran yang diukur dengan besaran lain yang sejenis yang telah ditetapkan sebagai satuan.,"proses untuk menganalisa ukuran suatu benda baik ukuran panjang, lebar, dan massa.",kegiatan membandingkan nilai besaran  diukur  besaran   sejenis   ditetapkan  satuan,proses  menganalisa ukuran suatu benda baik ukuran panjang lebar  massa,4.0,16.584999999999972
+"Rias realistis, rias karakter, rias fantasi, rias usia, rias jenis.","Tata rias yang digunakan dalam pertunjukan tari meliputi:
+Rias wajah, seperti pembersih, pelembab, alas bedak, bedak padat, pensil alis, perona mata, eyeliner, pewarna bulu mata, dan blush on 
+
+Body painting 
+
+Tata rias di kepala, seperti konde, sasak, dan penggunaan hair spray",rias realistis rias karakter rias fantasi rias usia rias jenis,tata rias  digunakan  pertunjukan tari meliputi rias wajah  pembersih pelembab alas bedak bedak padat pensil alis perona mata eyeliner pewarna bulu mata  blush on body painting tata rias  kepala  konde sasak  penggunaan hair spray,0.5,1.4949999999999983
+"Mengatur irama tari, membentuk suasana, mempertegas ungkapan gerak, menginspirasi gerak, mengingatkan gerak, mengidentifikasi tari","-Memberi irama,ketukan, dan tempo
+-Sebagai harmoni dari tari
+-Menciptakan suasana yang indah",mengatur irama tari membentuk suasana mempertegas ungkapan gerak menginspirasi gerak mengingatkan gerak mengidentifikasi tari,irama ketukan  tempo harmoni  tari suasana  indah,1.0,1.0100000000000002
+"berpusat atau bercerita tentang kerajaan (istana sentris), tidak diketahui nama pengarangnya (anonim) mengandung banyak nilai, terutama nilai moral bersifat statis tidak berkembang selalu berakhir dengan kemenangan tokoh utama (bahagia) arkais kemustahilan","bersifat istana sentris
+Anonim
+mengandung banyak nilai
+bersifat Statis
+akhir cerita happy end
+menggunakan bahasa arkais
+mengandung kemustahilan",berpusat  bercerita  kerajaan istana sentris  diketahui nama pengarangnya anonim mengandung banyak nilai terutama nilai moral bersifat statis  berkembang selalu berakhir  kemenangan tokoh utama bahagia arkais kemustahilan,bersifat istana sentris anonim mengandung banyak nilai bersifat statis akhir cerita happy end menggunakan bahasa arkais mengandung kemustahilan,5.0,4.060000000000002
+"Sendi pelana terdapat pada sambungan antara tulang telapak tangan dan tulang ruas jari
+Sendi peluru menghubungkan lengan atas dengan bahu dan juga tulang paha dengan gelang panggul.","Sendi Pelana : Terletak di antara dua tulang yang memungkinkan gerakan ke arah dua sumbu, seperti pada jari tangan.
+Sendi Peluru : Terletak di bagian tubuh yang memungkinkan gerakan dalam berbagai arah, seperti pada sendi bahu.",sendi pelana terdapat  sambungan  tulang telapak tangan  tulang ruas jari sendi peluru menghubungkan lengan atas  bahu   tulang paha  gelang panggul,sendi pelana terletak    tulang  memungkinkan gerakan  arah  sumbu   jari tangan sendi peluru terletak  bagian tubuh  memungkinkan gerakan  berbagai arah   sendi bahu,2.0,1.8499999999999972
+"mengamati (observasi), mengklasifikasi, mengukur, mengajukan pertanyaan, merumuskan hipotesis, merencanakan penelitian, menafsirkan data, Mengkomunikasikan","mengamati
+mengukur
+merumuskan hipotesis
+mengklasifikasi mengerjakan penelitian",mengamati observasi mengklasifikasi mengukur mengajukan pertanyaan merumuskan hipotesis merencanakan penelitian menafsirkan data mengkomunikasikan,mengamati mengukur merumuskan hipotesis mengklasifikasi mengerjakan penelitian,2.5,4.315000000000003
+jawaban sementara dari masalah yang diteliti sehingga kebenarannya harus diuji secara empiris.,dugaan sementara dari data-data yang telah dikumpulkan. (jawaban sementara),jawaban   masalah  diteliti  kebenarannya  diuji  empiris,dugaan     dikumpulkan jawaban ,1.5,1.849999999999997
+Periode waktu yang dibutuhkan dalam menampilkan tarian.,lamanya sesuatu yang berlangsung secara rentangnya waktu,periode waktu  dibutuhkan  menampilkan tarian,lamanya   berlangsung  rentangnya waktu,1.0,0.015
+"ilmu pengetahuan yang mempelajari gejala alam melalui pengamatan, eksperimen, dan analisis.",ilmu yang mempelajari dari suatu gejala alam.,ilmu pengetahuan  mempelajari gejala alam melalui pengamatan eksperimen  analisis,ilmu  mempelajari  suatu gejala alam,2.5,2.7149999999999967
+"Unsur-unsur yang memungkinkan gerak tari menjadi lebih bermakna dan lebih menarik, serta sesuai dengan isi tarian yang dikehendaki penata tari.",unsur-unsur yang mendukung gerakan tari., memungkinkan gerak tari menjadi lebih bermakna  lebih menarik  sesuai  isi tarian  dikehendaki penata tari, mendukung gerakan tari,0.5,1.804999999999997
+kegiatan melihat dan memperhatikan dengan teliti fenomena alam yang akan diamati,kegiatan observasi artinya mengamati fenomena secara teliti.,kegiatan melihat  memperhatikan  teliti fenomena alam   diamati,kegiatan observasi artinya mengamati fenomena  teliti,2.0,0.38000000000000006
+gerak tari yang menggambarkan suatu hal secara simbolik melalui hal-hal yang tidak realistik (abstrak),gerak tari yang menggambarkan suatu hal secara simbolik melalui hal-hal yg tidak realistis (abstrak),gerak tari  menggambarkan suatu   simbolik melalui   realistik abstrak,gerak tari  menggambarkan suatu   simbolik melalui yg  realistis abstrak,5.0,3.9549999999999983
+hasil penemuan dari berbagai penyelidikan atau penelitian yang dikumpulkan dan disusun secara sistematis menjadi kumpulan pengetahuan.,barang dijadikan sebagai penelitian ilmiah.,hasil penemuan  berbagai penyelidikan  penelitian  dikumpulkan  disusun  sistematis menjadi kumpulan pengetahuan,barang dijadikan  penelitian ilmiah,0.0,0.9100000000000001
+Kumpulan prinsip spesifik yang kebenarannya telah diuji berulang kali dan diterima secara meluas.,Kumpulan prinsip spesifik yang kebenarannya telah diuji berulang kali dan diterima secara meluas,kumpulan prinsip spesifik  kebenarannya  diuji berulang kali  diterima  meluas,kumpulan prinsip spesifik  kebenarannya  diuji berulang kali  diterima  meluas,5.0,4.974451625382168
+"Pernyataan matematis dari suatu fakta, konsep, prinsip, hukum, dan teori yang menggambarkan keterkaitan antara variabel-variabel yang menggambarkan fenomena alam tertentu.",Rumus untuk suatu barang yang telah diteliti dan dibuktikan rumusnya,pernyataan matematis  suatu fakta konsep prinsip hukum  teori  menggambarkan keterkaitan   menggambarkan fenomena alam tertentu,rumus  suatu barang   diteliti  dibuktikan rumusnya,0.0,2.554999999999998
+Cepat lambatnya irama gerak serta hitungan gerak yang dalam hal ini berhubungan langsung dengan musik pengiring tari.,Cepat lambatnya irama gerak serta hitungan gerak yang dalam hal ini berhubungan langsung dengan musik pengiring tari.,cepat lambatnya irama gerak  hitungan gerak     berhubungan langsung  musik pengiring tari,cepat lambatnya irama gerak  hitungan gerak     berhubungan langsung  musik pengiring tari,5.0,4.974451625382168
+Pakaian utama yang dikenakan oleh penari dan benar-benar tampak bagi penonton.,Pakaian utama yang dikenakan oleh penari dan benar-benar tampak bagi penonton,pakaian utama  dikenakan  penari  tampak  penonton,pakaian utama  dikenakan  penari  tampak  penonton,5.0,4.974451625382168
+Riasan yang digunakan untuk mempertajam atau mempertegas garis wajah tanpa menghilangkan bentuk wajah asli penari.,"teknik tata rias yang digunakan untuk menciptakan tampilan yang menyerupai kondisi nyata atau alami, dengan tujuan agar karakter yang dibawakan terlihat seperti kehidupan sehari-hari.",riasan  digunakan  mempertajam  mempertegas garis wajah  menghilangkan bentuk wajah asli penari,teknik tata rias  digunakan  menciptakan tampilan  menyerupai kondisi nyata  alami  tujuan  karakter  dibawakan terlihat  kehidupan,1.0,2.4449999999999985
+"ilmu pengetahuan yang mempelajari gejala alam melalui pengamatan, eksperimen, dan analisis.",pemikiran para ilmuan. Sains untuk mengungkap sesuatu hal yang baru.,ilmu pengetahuan  mempelajari gejala alam melalui pengamatan eksperimen  analisis,pemikiran  ilmuan sains  mengungkap    baru,0.0,4.13
+gerak yang dilakukan sambil berpindah tempat,"Gerakan tari yang melibatkan pergeseran posisi tubuh dari satu tempat ke tempat lain, seperti berjalan, berlari, atau melompat",gerak  dilakukan  berpindah tempat,gerakan tari  melibatkan pergeseran posisi tubuh  satu tempat  tempat   berjalan berlari  melompat,4.0,3.0350000000000037
+"pemahaman tentang bagaimana informasi ilmiah dalam fisika diperoleh, diuji, dan divalidasi.","Pemahaman tentang pengetahuan ilmiah dalam fisika yang diperoleh, diuji, dan divalidasi.",pemahaman  bagaimana informasi ilmiah  fisika diperoleh diuji  divalidasi,pemahaman  pengetahuan ilmiah  fisika  diperoleh diuji  divalidasi,5.0,2.9950000000000006
+"Nilai moral, yaitu nilai yang berkaitan dengan baik buruknya tokoh.
+Nilai sosial, yaitu nilai yang berkaitan dengan sikap tokoh dalam hubungannya dengan tokoh lain
+Nilai religi, yaitu nilai yang berhubungan dengan hubungan manusia dengan Tuhan.
+Nilai budaya, yaitu nilai yang berkaitan dengan kebiasaan masyarakat saat itu.
+Nilai pendidikan, yaitu nilai yang berkaitan dengan upaya seseorang mencari ilmu pengetahuan.","Nilai Moral: Nilai yang berkaitan dengan baik buruknya tokoh.
+Nilai Sosial: Nilai yang berkaitan dengan sikap tokoh yang berhubungan dengan tokoh lainnya.
+Nilai Religi: Nilai yang berhubungan dengan manusia dengan Tuhan.
+Nilai Budaya: Nilai yang berkaitan dengan kebiasaan masyarakat.
+Nilai Pendidikan: Nilai yang berkaitan upaya seseorang dalam mencapai ilmu pengetahuan.",nilai moral  nilai  berkaitan  baik buruknya tokoh nilai sosial  nilai  berkaitan  sikap tokoh  hubungannya  tokoh  nilai religi  nilai  berhubungan  hubungan manusia  tuhan nilai budaya  nilai  berkaitan  kebiasaan masyarakat   nilai pendidikan  nilai  berkaitan  upaya seseorang mencari ilmu pengetahuan,nilai moral nilai  berkaitan  baik buruknya tokoh nilai sosial nilai  berkaitan  sikap tokoh  berhubungan  tokoh lainnya nilai religi nilai  berhubungan  manusia  tuhan nilai budaya nilai  berkaitan  kebiasaan masyarakat nilai pendidikan nilai  berkaitan upaya seseorang  mencapai ilmu pengetahuan,5.0,3.7450000000000006
+Teori disusun untuk menjelaskan sesautu yang tidak dapat diamati secara langsung dan masih bersifat sementara.,"Teori disusun untuk menjelaskan cara kerja/rumus dari suatu objek yang sedang diteliti, dalam bentuk kalimat/urutan kata.",teori disusun  menjelaskan sesautu    diamati  langsung   bersifat ,teori disusun  menjelaskan cara  suatu objek  sedang diteliti  bentuk kata,0.5,1.2849999999999995
+Pakaian utama yang dikenakan oleh penari dan benar-benar tampak bagi penonton.,"segala jenis busana atau pakaian yang dikenakan pada tubuh manusia, yang berfungsi untuk melindungi, memperindah, dan memberikan identitas sosial atau budaya.",pakaian utama  dikenakan  penari  tampak  penonton,segala jenis busana  pakaian  dikenakan  tubuh manusia  berfungsi  melindungi memperindah  memberikan identitas sosial  budaya,2.5,0.9949999999999987
+"Pernyataan matematis dari suatu fakta, konsep, prinsip, hukum, dan teori yang menggambarkan keterkaitan antara variabel-variabel yang menggambarkan fenomena alam tertentu.",salah satu untuk melakukan hasil pengukuran agar diketahui hasilnya,pernyataan matematis  suatu fakta konsep prinsip hukum  teori  menggambarkan keterkaitan   menggambarkan fenomena alam tertentu,salah satu  melakukan hasil pengukuran  diketahui hasilnya,0.0,0.01
+"Unsur-unsur yang memungkinkan gerak tari menjadi lebih bermakna dan lebih menarik, serta sesuai dengan isi tarian yang dikehendaki penata tari.",Unsur yang membuat tari lebih bermakna., memungkinkan gerak tari menjadi lebih bermakna  lebih menarik  sesuai  isi tarian  dikehendaki penata tari,unsur  membuat tari lebih bermakna,1.5,2.2199999999999993
+"musik pengiring, tata busana, tata rias, properti tari","Busana,tata rias,musik.",musik pengiring tata busana tata rias properti tari,busana tata rias musik,3.5,4.965
+"Sendi mati yaitu sendi yang tidak mungkin bergerak.
+Sendi tulang rawan atau sendi kaku, yaitu sendi yang memungkinkan terjadinya sedikit gerak antartulang yang terhubung.
+Sendi gerak yaitu sendi yang bisa digerakkan dengan bebas.","-sendi mati
+yaitu sendi yang tidak mungkin bergerak
+-sendi tulang rawan (sendi kaku)
+yaitu sendi yang memungkinkan terjadinya sedikit gerak antartulang yang terhubung
+-sendi gerak 
+yaitu sendi yang bisa digerakkan dengan bebas",sendi mati  sendi   mungkin bergerak sendi tulang rawan  sendi kaku  sendi  memungkinkan terjadinya sedikit gerak antartulang  terhubung sendi gerak  sendi   digerakkan  bebas,mati  sendi   mungkin bergerak tulang rawan sendi kaku  sendi  memungkinkan terjadinya sedikit gerak antartulang  terhubung gerak  sendi   digerakkan  bebas,5.0,4.996123900393371
+"Mengatur irama tari, membentuk suasana, mempertegas ungkapan gerak, menginspirasi gerak, mengingatkan gerak, mengidentifikasi tari","Mengatur irama tari, membentuk suasana, mempertegas ungkapan gerak, menginspirasi gerak, mengingatkan gerak, mengidentifikasi tari.",mengatur irama tari membentuk suasana mempertegas ungkapan gerak menginspirasi gerak mengingatkan gerak mengidentifikasi tari,mengatur irama tari membentuk suasana mempertegas ungkapan gerak menginspirasi gerak mengingatkan gerak mengidentifikasi tari,5.0,4.974451625382168
+"Salah saju jenis prosa lama yang menceritakan kehidupan raja, keluarga raja, atau bangsawan.", salah satu jenis sastra lama yang berbentuk lisan atau tulisan,salah saju jenis prosa lama  menceritakan kehidupan raja keluarga raja  bangsawan,salah satu jenis sastra lama  berbentuk lisan  tulisan,3.5,2.0850000000000004
+Generalisasi dari hubungan antara fakta dengan konsep.,generalisasi dari hubungan antara fakta dan konsep,generalisasi  hubungan  fakta  konsep,generalisasi  hubungan  fakta  konsep,5.0,4.974451625382168
+berkaitan dengan cara berpikir seorang ilmuwan dalam melakukan proses sains.,Pemikiran para ilmuwan sains dapat disebut sebagai a way of thinking sebagai kegiatan kreatif karena ide-ide dan dari suatu gejala disusun dalam pikiran dan sikap,berkaitan  cara berpikir seorang ilmuwan  melakukan proses sains,pemikiran  ilmuwan sains  disebut  a way of thinking  kegiatan kreatif    suatu gejala disusun  pikiran  sikap,2.0,3.3249999999999935
+"Nilai moral, yaitu nilai yang berkaitan dengan baik buruknya tokoh.
+Nilai sosial, yaitu nilai yang berkaitan dengan sikap tokoh dalam hubungannya dengan tokoh lain
+Nilai religi, yaitu nilai yang berhubungan dengan hubungan manusia dengan Tuhan.
+Nilai budaya, yaitu nilai yang berkaitan dengan kebiasaan masyarakat saat itu.
+Nilai pendidikan, yaitu nilai yang berkaitan dengan upaya seseorang mencari ilmu pengetahuan.","Nilai Religi : tentang sudut keagamaan
+Nilai Pendidikan : tentang ilmu pengetahuan
+Nilai Sosial : tentang kehidupan antar manusia
+Nilai Budaya : tentang kebudayaan suatu daerah
+Nilai Moral : tentang baik atau buruknya manusia",nilai moral  nilai  berkaitan  baik buruknya tokoh nilai sosial  nilai  berkaitan  sikap tokoh  hubungannya  tokoh  nilai religi  nilai  berhubungan  hubungan manusia  tuhan nilai budaya  nilai  berkaitan  kebiasaan masyarakat   nilai pendidikan  nilai  berkaitan  upaya seseorang mencari ilmu pengetahuan,nilai religi  sudut keagamaan nilai pendidikan  ilmu pengetahuan nilai sosial  kehidupan antar manusia nilai budaya  kebudayaan suatu daerah nilai moral  baik  buruknya manusia,5.0,3.5650000000000044
+"tungkai atas dan bawah, telapak kaki, jari-jari kaki.","Tungkai atas atau bawah, telapak kaki, jari-jari kaki",tungkai atas  bawah telapak kaki kaki,tungkai atas  bawah telapak kaki kaki,5.0,4.974451625382168
+Secara langsung yaitu penggambaran tokoh berdasarkan watak yang dimiliki. Secara tidak langsung yaitu sesuai dengan cara tokoh berdialog dalam cerita,"Secara langsung (analitik) dan secara tidak langsung (dramatik).
+Secara dramatik misalnya, dialog, bercerita.
+Secara analitik berbicara secara langsung.", langsung  penggambaran tokoh berdasarkan watak  dimiliki   langsung  sesuai  cara tokoh berdialog  cerita, langsung analitik    langsung dramatik  dramatik misalnya dialog bercerita  analitik berbicara  langsung,5.0,1.945000000000001
+"penanda waktu, kesempatan, durasi, tempo, dan timing.","Tempo menari, tempo musik, ritme musik, durasi musik,durasi menari",penanda waktu kesempatan durasi tempo  timing,tempo menari tempo musik ritme musik durasi musik durasi menari,1.0,0.814999999999999
+"Variabel bebas
+Variabel terkait
+Variabel terkontrol","Variabel bebas
+Variabel terkontrol
+Variabel terikat",variabel bebas variabel terkait variabel terkontrol,variabel bebas variabel terkontrol variabel terikat,5.0,4.924999999999999
+gerak yang dianggap tidak mempunyai arti tertentu karena lebih mengutamakan aspek keindahan atau artistik.,"gerakan yang dilakukan untuk mendapatkan keindahan atau bentuk artistik, tanpa mempertimbangkan makna tertentu. Gerak murni juga disebut sebagai gerak wantah. 
+
+Gerak murni dalam seni tari memiliki ciri-ciri sebagai berikut: Eksploratif, Abstrak, Estetis, Tidak memiliki makna atau pesan spesifik, Lebih fokus pada teknis dan kualitas gerakan.",gerak  dianggap  mempunyai arti tertentu  lebih mengutamakan aspek keindahan  artistik,gerakan  dilakukan  mendapatkan keindahan  bentuk artistik  mempertimbangkan makna tertentu gerak murni  disebut  gerak wantah gerak murni  seni tari memiliki  berikut eksploratif abstrak estetis  memiliki makna  pesan spesifik lebih fokus  teknis  kualitas gerakan,2.5,1.8500000000000008
+kegiatan melihat dan memperhatikan dengan teliti fenomena alam yang akan diamati,"Kegiatan meneliti dalam suatu penelitian, melihat dan memperhatikan",kegiatan melihat  memperhatikan  teliti fenomena alam   diamati,kegiatan meneliti  suatu penelitian melihat  memperhatikan,2.0,4.410000000000002
+penghubung antartulang dan keberadaannya memungkinkan tulang-tulang dapat digerakkan,Sendi tubuh bagian siku,penghubung antartulang  keberadaannya memungkinkan  digerakkan,sendi tubuh bagian siku,0.0,0.37999999999999956
+Pengetahuan yang diperoleh dengan menggunakan cara-cara tertentu yang teratur dan terkontrol.,pengetahuan yang diperoleh secara terkontrol tanpa terpengaruhi variabel terikat,pengetahuan  diperoleh  menggunakan tertentu  teratur  terkontrol,pengetahuan  diperoleh  terkontrol  terpengaruhi variabel terikat,3.0,1.595000000000002
+"berpusat atau bercerita tentang kerajaan (istana sentris), tidak diketahui nama pengarangnya (anonim) mengandung banyak nilai, terutama nilai moral bersifat statis tidak berkembang selalu berakhir dengan kemenangan tokoh utama (bahagia) arkais kemustahilan","Menceritakan tentang kerajaan atau istana sentris
+Menceritakan tokoh yang selalu berakhir bahagia
+Ceritanya bersifat statis
+Bersifat anonim
+Mengandung banyak nilai terutama nilai moral",berpusat  bercerita  kerajaan istana sentris  diketahui nama pengarangnya anonim mengandung banyak nilai terutama nilai moral bersifat statis  berkembang selalu berakhir  kemenangan tokoh utama bahagia arkais kemustahilan,menceritakan  kerajaan  istana sentris menceritakan tokoh  selalu berakhir bahagia ceritanya bersifat statis bersifat anonim mengandung banyak nilai terutama nilai moral,3.0,4.965
+hasil penemuan dari berbagai penyelidikan atau penelitian yang dikumpulkan dan disusun secara sistematis menjadi kumpulan pengetahuan.,hasil penemuan dari berbagai penelitian,hasil penemuan  berbagai penyelidikan  penelitian  dikumpulkan  disusun  sistematis menjadi kumpulan pengetahuan,hasil penemuan  berbagai penelitian,2.0,2.3249999999999966
+"pemahaman tentang bagaimana informasi ilmiah dalam fisika diperoleh, diuji, dan divalidasi.",Kegiatan yang dilakukan untuk mengetahui nilai guna dari suatu barang,pemahaman  bagaimana informasi ilmiah  fisika diperoleh diuji  divalidasi,kegiatan  dilakukan  mengetahui nilai   suatu barang,0.0,0.6149999999999994
+"pakaian dasar, pakaian kaki, pakaian tubuh, pakaian kepala, aksesori pelengkap.","Kostum dasar, kostum tubuh, kostum kepala, kostum kaki, kostum pelengkap",pakaian dasar pakaian kaki pakaian tubuh pakaian kepala aksesori pelengkap,kostum dasar kostum tubuh kostum kepala kostum kaki kostum pelengkap,4.5,1.5700000000000016
+hasil penemuan dari berbagai penyelidikan atau penelitian yang dikumpulkan dan disusun secara sistematis menjadi kumpulan pengetahuan.,suatu benda yang dipergunakan dan biasanya dapat di perdagangkan,hasil penemuan  berbagai penyelidikan  penelitian  dikumpulkan  disusun  sistematis menjadi kumpulan pengetahuan,suatu benda  dipergunakan  biasanya   perdagangkan,0.0,0.4349999999999997
+"Nilai moral, yaitu nilai yang berkaitan dengan baik buruknya tokoh.
+Nilai sosial, yaitu nilai yang berkaitan dengan sikap tokoh dalam hubungannya dengan tokoh lain
+Nilai religi, yaitu nilai yang berhubungan dengan hubungan manusia dengan Tuhan.
+Nilai budaya, yaitu nilai yang berkaitan dengan kebiasaan masyarakat saat itu.
+Nilai pendidikan, yaitu nilai yang berkaitan dengan upaya seseorang mencari ilmu pengetahuan.","Nilai moral: nilai yang mengandung baik atau buruknya seorang tokoh.
+Nilai Sosial: Nilai yang berisi perilaku atau sikap dari tokoh.
+Nilai agama: Nilai yang berisi tentang keagamaan seperti Kristen, Islam, Budha, dan Hindu.
+Nilai pendidikan: berisi ilmu pengetahuan yang ingin disampaikan.
+Nilai Budaya: nilai yang berisi adat atau tradisi serta perilaku yang dilakukan tokoh.",nilai moral  nilai  berkaitan  baik buruknya tokoh nilai sosial  nilai  berkaitan  sikap tokoh  hubungannya  tokoh  nilai religi  nilai  berhubungan  hubungan manusia  tuhan nilai budaya  nilai  berkaitan  kebiasaan masyarakat   nilai pendidikan  nilai  berkaitan  upaya seseorang mencari ilmu pengetahuan,nilai moral nilai  mengandung baik  buruknya seorang tokoh nilai sosial nilai  berisi perilaku  sikap  tokoh nilai agama nilai  berisi  keagamaan  kristen islam budha  hindu nilai pendidikan berisi ilmu pengetahuan   disampaikan nilai budaya nilai  berisi adat  tradisi  perilaku  dilakukan tokoh,5.0,1.5799999999999996
+"Berfungsi mengawali, mengendalikan, dan menghentikan gerak.",untuk membedakan karakter tarian,berfungsi mengawali mengendalikan  menghentikan gerak, membedakan karakter tarian,0.0,2.799222222222225
+"Nilai moral, yaitu nilai yang berkaitan dengan baik buruknya tokoh.
+Nilai sosial, yaitu nilai yang berkaitan dengan sikap tokoh dalam hubungannya dengan tokoh lain
+Nilai religi, yaitu nilai yang berhubungan dengan hubungan manusia dengan Tuhan.
+Nilai budaya, yaitu nilai yang berkaitan dengan kebiasaan masyarakat saat itu.
+Nilai pendidikan, yaitu nilai yang berkaitan dengan upaya seseorang mencari ilmu pengetahuan.","Nilai moral adalah yang menceritakan tentang baik dan buruknya tokoh
+Nilai sosial adalah nilai yang menceritakan kehidupan masyarakat
+Nilai religi adalah nilai yang menceritakan tentang manusia dengan Tuhan
+Nilai budaya adalah nilai yang menceritakan tentang kehidupan masyarakat itu sendiri
+Nilai pendidikan adalah nilai yang menceritakan tentang ilmu pengetahuan",nilai moral  nilai  berkaitan  baik buruknya tokoh nilai sosial  nilai  berkaitan  sikap tokoh  hubungannya  tokoh  nilai religi  nilai  berhubungan  hubungan manusia  tuhan nilai budaya  nilai  berkaitan  kebiasaan masyarakat   nilai pendidikan  nilai  berkaitan  upaya seseorang mencari ilmu pengetahuan,nilai moral   menceritakan  baik  buruknya tokoh nilai sosial  nilai  menceritakan kehidupan masyarakat nilai religi  nilai  menceritakan  manusia  tuhan nilai budaya  nilai  menceritakan  kehidupan masyarakat  sendiri nilai pendidikan  nilai  menceritakan  ilmu pengetahuan,5.0,3.9450000000000025
+gerakan menoleh sambil menekukkan leher ke samping kiri atau kanan.,gerakan penari dengan menggerakan atau menekukkan leher,gerakan menoleh  menekukkan leher  samping kiri  kanan,gerakan penari  menggerakan  menekukkan leher,2.5,1.0349999999999997
+gerak yang dilakukan di suatu tempat tanpa berpindah posisi.,gerak ditempat,gerak  dilakukan  suatu tempat  berpindah posisi,gerak ditempat,1.0,3.320214285714286
+"Abstraksi dari kejadian, fenomena, & fakta. Unsur konsep adalah nama, definisi, nilai dan contoh.",konsep adalah merupakan sebuah gambaran untuk produk,abstraksi  kejadian fenomena fakta unsur konsep  nama definisi nilai  contoh,konsep  merupakan sebuah gambaran  produk,1.0,0.3199999999999997
+"objektif, metodik, sistematik, berlaku umum","Sistematik
+Analitik
+objektif
+Metodik",objektif metodik sistematik berlaku umum,sistematik analitik objektif metodik,4.0,4.48
+kegiatan memilah berbagai fenomena alam berdasarkan karakteristik atau persamaan sifatnya,Kegiatan memilah berbagai fenomena alam berdasarkan karakteristik,kegiatan memilah berbagai fenomena alam berdasarkan karakteristik  persamaan sifatnya,kegiatan memilah berbagai fenomena alam berdasarkan karakteristik,4.5,4.425000000000004
+Riasan yang digunakan untuk mempertajam atau mempertegas garis wajah tanpa menghilangkan bentuk wajah asli penari.,berfungsi untuk mempertegas atau mempertebal garis-garis wajah,riasan  digunakan  mempertajam  mempertegas garis wajah  menghilangkan bentuk wajah asli penari,berfungsi  mempertegas  mempertebal wajah,2.5,2.51
+gerak yang dilakukan di suatu tempat tanpa berpindah posisi.,gerak yang dilakukan di satu tempat tanpa berpindah posisi.,gerak  dilakukan  suatu tempat  berpindah posisi,gerak  dilakukan  satu tempat  berpindah posisi,5.0,3.8649999999999984
+"pakaian dasar, pakaian kaki, pakaian tubuh, pakaian kepala, aksesori pelengkap.","1. Pakaian dasar 
+2.pakaian kaki
+3.pakaian tubuh",pakaian dasar pakaian kaki pakaian tubuh pakaian kepala aksesori pelengkap,pakaian dasar kaki tubuh,3.0,4.58
+Secara langsung yaitu penggambaran tokoh berdasarkan watak yang dimiliki. Secara tidak langsung yaitu sesuai dengan cara tokoh berdialog dalam cerita,"Antagonis: Watak karakter yang bersifat Jahat
+Protagonis: Watak karakter yang bersifat Baik
+", langsung  penggambaran tokoh berdasarkan watak  dimiliki   langsung  sesuai  cara tokoh berdialog  cerita,antagonis watak karakter  bersifat jahat protagonis watak karakter  bersifat baik,0.0,3.264999999999997
+"Rias realistis, rias karakter, rias fantasi, rias usia, rias jenis.","Rias realistis, rias karakter, rias fantasi dan rias usa",rias realistis rias karakter rias fantasi rias usia rias jenis,rias realistis rias karakter rias fantasi  rias usa,3.0,4.299999999999995
+"Unsur-unsur yang memungkinkan gerak tari menjadi lebih bermakna dan lebih menarik, serta sesuai dengan isi tarian yang dikehendaki penata tari.",unsur yang mendukung dan mewujudkan tari tersebut, memungkinkan gerak tari menjadi lebih bermakna  lebih menarik  sesuai  isi tarian  dikehendaki penata tari,unsur  mendukung  mewujudkan tari tersebut,0.5,2.8850000000000033
+"ruang riil atau ruang nyata mencakup tempat-tempat nyata, sedangkan ruang imajiner adalah ruang yang terbentuk dari pose dan gerak penari serta perpindahan posisi.","ruang rill : 
+ruang imajiner :",ruang riil  ruang nyata mencakup nyata  ruang imajiner  ruang  terbentuk  pose  gerak penari  perpindahan posisi,ruang rill ruang imajiner,0.5,3.330000000000004
+"Orientasi: Pengenalan tokoh-tokoh dalam cerita.
+Pemunculan Konflik: Awal kemunculan konflik dalam suatu cerita.
+Komplikasi: Peningkatan konflik yang membuat konflik mulai memuncak.
+Klimaks: Puncak konflik atau masalah paling intens.
+Resolusi: Penyelesaian masalah","Tahap Pengenalan: Pengenalan para tokoh dalam cerita.
+Kemunculan Konflik: Awal mula suatu masalah terjadi.
+Konflik Memuncak: Masalah semakin membesar.
+Konflik Menurun: Masalah semakin meredah.
+Penyelesaian: Alur tamat pada cerita.",orientasi pengenalan  cerita pemunculan konflik awal kemunculan konflik  suatu cerita komplikasi peningkatan konflik  membuat konflik mulai memuncak klimaks puncak konflik  masalah paling intens resolusi penyelesaian masalah,tahap pengenalan pengenalan  tokoh  cerita kemunculan konflik awal mula suatu masalah terjadi konflik memuncak masalah semakin membesar konflik menurun masalah semakin meredah penyelesaian alur tamat  cerita,5.0,4.0199999999999925
+"Mengatur irama tari, membentuk suasana, mempertegas ungkapan gerak, menginspirasi gerak, mengingatkan gerak, mengidentifikasi tari",Untuk menambah kemewahan dalam sebuah tari,mengatur irama tari membentuk suasana mempertegas ungkapan gerak menginspirasi gerak mengingatkan gerak mengidentifikasi tari, menambah kemewahan  sebuah tari,0.0,1.2399999999999987
+"mengamati (observasi), mengklasifikasi, mengukur, mengajukan pertanyaan, merumuskan hipotesis, merencanakan penelitian, menafsirkan data, Mengkomunikasikan","Unsur, model, rumus, prinsip, teori, fakta, konsep, mengukur.",mengamati observasi mengklasifikasi mengukur mengajukan pertanyaan merumuskan hipotesis merencanakan penelitian menafsirkan data mengkomunikasikan,unsur model rumus prinsip teori fakta konsep mengukur,0.0,1.3799999999999981
+jaringan dalam tubuh manusia yang dapat menggerakkan bagian tertentu pada tubuh manusia.,alat gerak yang terdiri dari otot sendi,jaringan  tubuh manusia   menggerakkan bagian tertentu  tubuh manusia,alat gerak  terdiri  otot sendi,0.0,1.6099999999999972
+"berpusat atau bercerita tentang kerajaan (istana sentris), tidak diketahui nama pengarangnya (anonim) mengandung banyak nilai, terutama nilai moral bersifat statis tidak berkembang selalu berakhir dengan kemenangan tokoh utama (bahagia) arkais kemustahilan","hanya bercerita tentang kerajaan, tidak dikenal siapa nama pengarangnya, tidak memiliki nilai dalam kehidupan, tidak berkembang (bersifat statis), bahagia, menggunakan bahasa arkais, mengandung kemustahilan",berpusat  bercerita  kerajaan istana sentris  diketahui nama pengarangnya anonim mengandung banyak nilai terutama nilai moral bersifat statis  berkembang selalu berakhir  kemenangan tokoh utama bahagia arkais kemustahilan, bercerita  kerajaan  dikenal siapa nama pengarangnya  memiliki nilai  kehidupan  berkembang bersifat statis bahagia menggunakan bahasa arkais mengandung kemustahilan,3.0,4.875
+"Berfungsi mengawali, mengendalikan, dan menghentikan gerak.","Untuk mengawali, mengendalikan, dan menghentikan gerakan",berfungsi mengawali mengendalikan  menghentikan gerak, mengawali mengendalikan  menghentikan gerakan,5.0,3.2349999999999994
+"Orientasi: Pengenalan tokoh-tokoh dalam cerita.
+Pemunculan Konflik: Awal kemunculan konflik dalam suatu cerita.
+Komplikasi: Peningkatan konflik yang membuat konflik mulai memuncak.
+Klimaks: Puncak konflik atau masalah paling intens.
+Resolusi: Penyelesaian masalah","Tahap pengenalan
+Pemunculan konflik
+Puncak konflik (klimaks)
+Penurunan konflik
+Penyelesaian",orientasi pengenalan  cerita pemunculan konflik awal kemunculan konflik  suatu cerita komplikasi peningkatan konflik  membuat konflik mulai memuncak klimaks puncak konflik  masalah paling intens resolusi penyelesaian masalah,tahap pengenalan pemunculan konflik puncak konflik klimaks penurunan konflik penyelesaian,2.5,4.054999999999994
+"Salah saju jenis prosa lama yang menceritakan kehidupan raja, keluarga raja, atau bangsawan.","salah satu jenis prosa lama yang menceritakan tentang kehidupan raja, keluarga raja",salah saju jenis prosa lama  menceritakan kehidupan raja keluarga raja  bangsawan,salah satu jenis prosa lama  menceritakan  kehidupan raja keluarga raja,5.0,4.96
+suatu sistem yang terdiri atas sejumlah tulang dan sendi yang membentuk tubuh manusia,alat gerak yg digerakan dengan bantuan otot dan saraf,suatu sistem  terdiri atas sejumlah tulang  sendi  membentuk tubuh manusia,alat gerak yg digerakan  bantuan otot  saraf,0.0,1.484999999999998
+"pakaian dasar, pakaian kaki, pakaian tubuh, pakaian kepala, aksesori pelengkap.","pakaian dasar, pakaian tubuh, pakaian kaki, pakaian kepala dan pakaian pelengkap",pakaian dasar pakaian kaki pakaian tubuh pakaian kepala aksesori pelengkap,pakaian dasar pakaian tubuh pakaian kaki pakaian kepala  pakaian pelengkap,5.0,4.555000000000005
+"Nilai moral, yaitu nilai yang berkaitan dengan baik buruknya tokoh.
+Nilai sosial, yaitu nilai yang berkaitan dengan sikap tokoh dalam hubungannya dengan tokoh lain
+Nilai religi, yaitu nilai yang berhubungan dengan hubungan manusia dengan Tuhan.
+Nilai budaya, yaitu nilai yang berkaitan dengan kebiasaan masyarakat saat itu.
+Nilai pendidikan, yaitu nilai yang berkaitan dengan upaya seseorang mencari ilmu pengetahuan.","Nilai Moral : berkaitan dengan perilaku atau watak yang ditampilkan oleh para tokoh dalam cerita hikayat
+Nilai Sosial : nilai yang berhubungan dengan kehidupan sosial para pemeran serta hubungan antar manusia
+Nilai Budaya : nilai yang mengandung unsur-unsur kebudayaan
+Nilai Edukasi / Pendidikan : nilai yang meliputi ajaran pendidikan atau pesan yang mengandung ajaran pendidikan
+Nilai Religius : nilai yang berkaitan dengan hal-hal yang berkaitan dengan kepercayaan",nilai moral  nilai  berkaitan  baik buruknya tokoh nilai sosial  nilai  berkaitan  sikap tokoh  hubungannya  tokoh  nilai religi  nilai  berhubungan  hubungan manusia  tuhan nilai budaya  nilai  berkaitan  kebiasaan masyarakat   nilai pendidikan  nilai  berkaitan  upaya seseorang mencari ilmu pengetahuan,nilai moral berkaitan  perilaku  watak  ditampilkan   tokoh  cerita hikayat nilai sosial nilai  berhubungan  kehidupan sosial  pemeran  hubungan antar manusia nilai budaya nilai  mengandung kebudayaan nilai edukasi pendidikan nilai  meliputi ajaran pendidikan  pesan  mengandung ajaran pendidikan nilai religius nilai  berkaitan   berkaitan  kepercayaan,5.0,2.66
+"ilmu pengetahuan yang mempelajari gejala alam melalui pengamatan, eksperimen, dan analisis.",Ilmu yang mempelajari tentang fenomena alam dan berhubungan dengan matematika.,ilmu pengetahuan  mempelajari gejala alam melalui pengamatan eksperimen  analisis,ilmu  mempelajari  fenomena alam  berhubungan  matematika,2.5,1.495
+jaringan dalam tubuh manusia yang dapat menggerakkan bagian tertentu pada tubuh manusia.,otot yang menggerakkan semua bagian tubuh,jaringan  tubuh manusia   menggerakkan bagian tertentu  tubuh manusia,otot  menggerakkan semua bagian tubuh,1.0,1.4299999999999993
+"Mengatur irama tari, membentuk suasana, mempertegas ungkapan gerak, menginspirasi gerak, mengingatkan gerak, mengidentifikasi tari","kekuatan yang akan mengawali, memberikan pengendalian, dan akan menghentikan gerakan",mengatur irama tari membentuk suasana mempertegas ungkapan gerak menginspirasi gerak mengingatkan gerak mengidentifikasi tari,kekuatan   mengawali memberikan pengendalian   menghentikan gerakan,0.0,0.9099999999999996
+"pemahaman tentang bagaimana informasi ilmiah dalam fisika diperoleh, diuji, dan divalidasi.",tentang pemahaman kita dengan proses dari fisika,pemahaman  bagaimana informasi ilmiah  fisika diperoleh diuji  divalidasi, pemahaman   proses  fisika,1.0,2.3199999999999985
+"Orientasi: Pengenalan tokoh-tokoh dalam cerita.
+Pemunculan Konflik: Awal kemunculan konflik dalam suatu cerita.
+Komplikasi: Peningkatan konflik yang membuat konflik mulai memuncak.
+Klimaks: Puncak konflik atau masalah paling intens.
+Resolusi: Penyelesaian masalah","Orientasi = Pengenalan tokoh dalam cerita
+Pemunculan Konflik = awal kemunculan konflik
+Komplikasi = Peningkatan konflik
+Klimaks = Puncak konflik
+Resolusi = Penyelesaian Permasalahan",orientasi pengenalan  cerita pemunculan konflik awal kemunculan konflik  suatu cerita komplikasi peningkatan konflik  membuat konflik mulai memuncak klimaks puncak konflik  masalah paling intens resolusi penyelesaian masalah,orientasi pengenalan tokoh  cerita pemunculan konflik awal kemunculan konflik komplikasi peningkatan konflik klimaks puncak konflik resolusi penyelesaian permasalahan,5.0,4.555000000000002
+gerak yang dianggap tidak mempunyai arti tertentu karena lebih mengutamakan aspek keindahan atau artistik.,"gerakan yang selalu ada di dalam tarian untuk memperindah tarian tersebut. namun gerak murni ini berbeda dengan gerak maknawi, karena gerakan maknawi adalah gerakan yang sudah pasti memiliki makna dan arti tertentu, serta mudah di tebak apa arti dari gerakan yang ditarikan oleh penari yang menarik gerak maknawi itu. sedangkan gerak murni tidak dapat ditebak dan diketahui apa maksud dari gerakannya karena biasanya hanya berupa gerakan gemulai tangan dan lambaian tangan degan lembut.",gerak  dianggap  mempunyai arti tertentu  lebih mengutamakan aspek keindahan  artistik,gerakan  selalu    tarian  memperindah tarian tersebut  gerak murni  berbeda  gerak maknawi  gerakan maknawi  gerakan    memiliki makna  arti tertentu  mudah  tebak apa arti  gerakan  ditarikan  penari  menarik gerak maknawi   gerak murni   ditebak  diketahui apa maksud  gerakannya  biasanya  berupa gerakan gemulai tangan  lambaian tangan degan lembut,0.5,1.7999999999999983
+gerak yang dilakukan sambil berpindah tempat,Gerakan yang tidak diam dalam satu tempat dan selalu berpindah-pindah,gerak  dilakukan  berpindah tempat,gerakan   diam  satu tempat  selalu,3.5,0.6449999999999996
+"ilmu pengetahuan yang mempelajari gejala alam melalui pengamatan, eksperimen, dan analisis.","ilmu pengetahuan alam yang mempelajari tentang suatu gejala alam melalui pengamatan, eksperimen, dan analisis.",ilmu pengetahuan  mempelajari gejala alam melalui pengamatan eksperimen  analisis,ilmu pengetahuan alam  mempelajari  suatu gejala alam melalui pengamatan eksperimen  analisis,4.0,5.0
+Secara langsung yaitu penggambaran tokoh berdasarkan watak yang dimiliki. Secara tidak langsung yaitu sesuai dengan cara tokoh berdialog dalam cerita,"secara tidak langsung = seperti dialog atau percakapan, Reaksi dari dialog
+secara langsung = dengan cara melalui pengarang itu sendiri", langsung  penggambaran tokoh berdasarkan watak  dimiliki   langsung  sesuai  cara tokoh berdialog  cerita,  langsung  dialog  percakapan reaksi  dialog  langsung  cara melalui pengarang  sendiri,5.0,4.454999999999996
+gerak yang dianggap tidak mempunyai arti tertentu karena lebih mengutamakan aspek keindahan atau artistik.,gerak yang dianggap tidak mempunyai arti atau makna tertentu karna gerak murni lebih mengutamakan segi aspek keindahan dan artistik,gerak  dianggap  mempunyai arti tertentu  lebih mengutamakan aspek keindahan  artistik,gerak  dianggap  mempunyai arti  makna tertentu karna gerak murni lebih mengutamakan segi aspek keindahan  artistik,5.0,4.0000000000000036
+"objektif, metodik, sistematik, berlaku umum","empiris, kritis dan analitis, objektif, konseptual dan logis.",objektif metodik sistematik berlaku umum,empiris kritis  analitis objektif konseptual  logis,5.0,1.1550000000000011
+gerak yang dilakukan di suatu tempat tanpa berpindah posisi.,gerak yang di lakukan di suatu tempat tanpa berpindah posisi,gerak  dilakukan  suatu tempat  berpindah posisi,gerak   lakukan  suatu tempat  berpindah posisi,5.0,2.3949999999999965
+jawaban sementara dari masalah yang diteliti sehingga kebenarannya harus diuji secara empiris.,jawaban sementara dari suatu penelitian ilmiah yang digunakan untuk meneliti lebih dalam,jawaban   masalah  diteliti  kebenarannya  diuji  empiris,jawaban   suatu penelitian ilmiah  digunakan  meneliti lebih ,2.0,0.6499999999999995
+"Mengatur irama tari, membentuk suasana, mempertegas ungkapan gerak, menginspirasi gerak, mengingatkan gerak, mengidentifikasi tari",untuk membedakan karakter tarian,mengatur irama tari membentuk suasana mempertegas ungkapan gerak menginspirasi gerak mengingatkan gerak mengidentifikasi tari, membedakan karakter tarian,0.0,1.2399999999999978
+Representasi dari suatu benda atau sistem yang dibuat sebagai gambaran untuk memudahkan pemahaman suatu benda atau fenomena alam.,Representasi dari suatu benda.,representasi  suatu benda  sistem  dibuat  gambaran  memudahkan pemahaman suatu benda  fenomena alam,representasi  suatu benda,1.0,4.0149999999999935
+"Pernyataan matematis dari suatu fakta, konsep, prinsip, hukum, dan teori yang menggambarkan keterkaitan antara variabel-variabel yang menggambarkan fenomena alam tertentu.",perhitungan / pernyataan matematis yang menyebutkan cara kerja suatu benda,pernyataan matematis  suatu fakta konsep prinsip hukum  teori  menggambarkan keterkaitan   menggambarkan fenomena alam tertentu,perhitungan pernyataan matematis  menyebutkan cara kerja suatu benda,1.5,0.8724523809523798
+"Mengatur irama tari, membentuk suasana, mempertegas ungkapan gerak, menginspirasi gerak, mengingatkan gerak, mengidentifikasi tari","-sebagai pendukung gerakan dari para penari 
+
+- sebagai pendukung suasana atau disebut juga dengan sebutan musik ilustrasi dalam tarian.",mengatur irama tari membentuk suasana mempertegas ungkapan gerak menginspirasi gerak mengingatkan gerak mengidentifikasi tari,pendukung gerakan   penari  pendukung suasana  disebut   sebutan musik ilustrasi  tarian,0.0,0.26499999999999996
+"Berfungsi mengawali, mengendalikan, dan menghentikan gerak.",agar saat menari dapat menggambarkan sang tarian,berfungsi mengawali mengendalikan  menghentikan gerak,  menari  menggambarkan sang tarian,0.0,0.9599999999999984
+"Pernyataan matematis dari suatu fakta, konsep, prinsip, hukum, dan teori yang menggambarkan keterkaitan antara variabel-variabel yang menggambarkan fenomena alam tertentu.","Pernyataan otomatis dari suatu fakta, konsep, teori, hukum, rumus, metode, model",pernyataan matematis  suatu fakta konsep prinsip hukum  teori  menggambarkan keterkaitan   menggambarkan fenomena alam tertentu,pernyataan otomatis  suatu fakta konsep teori hukum rumus metode model,2.0,1.1911433982683999
+"Variabel bebas
+Variabel terkait
+Variabel terkontrol","Variabel bebas
+Variabel terikat
+Variabel kontrol",variabel bebas variabel terkait variabel terkontrol,variabel bebas variabel terikat variabel kontrol,0.0,4.0649999999999995
+gerakan menoleh sambil menekukkan leher ke samping kiri atau kanan.,Gerak tekukan kepala ke samping kiri atau kanan pada tari ,gerakan menoleh  menekukkan leher  samping kiri  kanan,gerak tekukan kepala  samping kiri  kanan  tari,2.0,4.294999999999999
+"Orientasi: Pengenalan tokoh-tokoh dalam cerita.
+Pemunculan Konflik: Awal kemunculan konflik dalam suatu cerita.
+Komplikasi: Peningkatan konflik yang membuat konflik mulai memuncak.
+Klimaks: Puncak konflik atau masalah paling intens.
+Resolusi: Penyelesaian masalah","Abstraksi
+Orientasi
+Klimaks
+Resolusi",orientasi pengenalan  cerita pemunculan konflik awal kemunculan konflik  suatu cerita komplikasi peningkatan konflik  membuat konflik mulai memuncak klimaks puncak konflik  masalah paling intens resolusi penyelesaian masalah,abstraksi orientasi klimaks resolusi,2.5,3.7650000000000006
+berkaitan dengan cara berpikir seorang ilmuwan dalam melakukan proses sains.,Berkaitan dengan sikap peneliti dalam melakukan penelitian. Seperti peneliti harus jujur dalam melakukan penelitian.,berkaitan  cara berpikir seorang ilmuwan  melakukan proses sains,berkaitan  sikap peneliti  melakukan penelitian  peneliti  jujur  melakukan penelitian,2.0,1.185000000000001
+"Salah saju jenis prosa lama yang menceritakan kehidupan raja, keluarga raja, atau bangsawan.","Prosa yang menceritakan tentang kehidupan raja, keluarga raja",salah saju jenis prosa lama  menceritakan kehidupan raja keluarga raja  bangsawan,prosa  menceritakan  kehidupan raja keluarga raja,4.5,4.245000000000004
+"Mengatur irama tari, membentuk suasana, mempertegas ungkapan gerak, menginspirasi gerak, mengingatkan gerak, mengidentifikasi tari","-sebagai pembentuk suasana
+-membuat gerakan menjadi lebih indah dengan iringan musik 
+-mempertegas gerakan dan sebagai pengingat gerakan
+-memberikan irama",mengatur irama tari membentuk suasana mempertegas ungkapan gerak menginspirasi gerak mengingatkan gerak mengidentifikasi tari,pembentuk suasana gerakan menjadi lebih indah  iringan musik gerakan   pengingat gerakan irama,4.0,1.2199999999999989
+"Salah saju jenis prosa lama yang menceritakan kehidupan raja, keluarga raja, atau bangsawan."," sastra kuno yang biasanya menceritakan tentang raja-raja atau kerajaan, teks hikayat selalu berakhir dengan ending yang baik, teks hikayat mengandung",salah saju jenis prosa lama  menceritakan kehidupan raja keluarga raja  bangsawan,sastra kuno  biasanya menceritakan   kerajaan teks hikayat selalu berakhir  ending  baik teks hikayat mengandung,3.5,1.6599999999999997
+"Merumuskan masalah
+Mengumpulkan informasi atau kajian pustaka
+Menyusun hipotesis
+Merancang dan melakukan eksperimen
+Menganalisis data
+Membuat simpulan
+Menulis laporan ilmiah",Merumuskan masalah - kajian pustaka - Merumuskan hipotesis - Melakukan eksperimen - mengecek data - menuliskan hasil penelitian - Melaporkan hasil penelitian,merumuskan masalah mengumpulkan informasi  kajian pustaka menyusun hipotesis merancang  melakukan eksperimen menganalisis data membuat simpulan menulis laporan ilmiah,merumuskan masalah kajian pustaka merumuskan hipotesis melakukan eksperimen mengecek data menuliskan hasil penelitian melaporkan hasil penelitian,4.5,4.125
+"Salah saju jenis prosa lama yang menceritakan kehidupan raja, keluarga raja, atau bangsawan.",teks yang berisi cerita fiksi yang bertemakan kerajaan atau lainnya yang berhubungan dengan sihir atau lainnya.,salah saju jenis prosa lama  menceritakan kehidupan raja keluarga raja  bangsawan,teks  berisi cerita fiksi  bertemakan kerajaan  lainnya  berhubungan  sihir  lainnya,3.5,1.7049999999999974
+Keadaan sesungguhnya dari suatu benda atau fenomena alam yang terjadi,suatu kenyataan pada benda atau fenomena yang terjadi di Alam,keadaan sesungguhnya  suatu benda  fenomena alam  terjadi,suatu kenyataan  benda  fenomena  terjadi  alam,5.0,2.504999999999998
+gerak yang dilakukan di suatu tempat tanpa berpindah posisi.,"hanya gerak di tempat,tidak berpindah ke tempat yang lain",gerak  dilakukan  suatu tempat  berpindah posisi, gerak  tempat  berpindah  tempat  ,5.0,2.690000000000003
+rasa ingin tahu objektif/jujur berpikir kritis berpikir terbuka sikap penemuan dan kreatif,Rasa ingin tau yang besar - kreatif - Berpikir kritis - Berpikir terbuka - Jujur,rasa  tahu berpikir kritis berpikir terbuka sikap penemuan  kreatif,rasa  tau  besar kreatif berpikir kritis berpikir terbuka jujur,4.5,4.359999999999995
+"pemahaman tentang bagaimana informasi ilmiah dalam fisika diperoleh, diuji, dan divalidasi.",fakta atau konsep yang diamati ilmiah dalam proses penelitian,pemahaman  bagaimana informasi ilmiah  fisika diperoleh diuji  divalidasi,fakta  konsep  diamati ilmiah  proses penelitian,0.5,0.9049999999999996
